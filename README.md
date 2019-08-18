@@ -3,3 +3,4 @@ An open-world head-to-head tank fighting game with simple AI, terrain and an adv
 
 ## Lecture List
 * BT01: Intro, Notes & Assets
+* BT02: Overview
